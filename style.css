@@ -32,7 +32,7 @@ html{
     justify-content: space-between;
 }
 .navbar .logo a{
-    color: #fff;
+    color: #008cff;
     font-size: 35px;
     font-weight: 500;
 }
@@ -63,7 +63,7 @@ html{
 /*  Home   inicio  */
 .home{
     display: flex;
-    background: url(image/OIG.jpg) no-repeat;
+    background: url(image/Header-1200-2.gif) no-repeat;
     background-size: cover;
     height: 100vh;
     color: #ffffff;
@@ -75,6 +75,7 @@ html{
 }
 .home .home-content .text-1{
     font-size: 27px;
+    color: #0026ff;
 }
 .home .home-content .text-2{
     font-size: 75px;
@@ -84,6 +85,7 @@ html{
 .home .home-content .text-3{
     font-size: 40px;
     margin: 5px 0;
+    color: #0026ff;
 }
 .home .home-content .text-3 span{
     color:#008cff ;
